@@ -10,9 +10,11 @@
   "dependencies": {
     "axios": "^0.26.1",
     "core-js": "^3.6.5",
-    "vant": "^3.4.8",
+    "postcss": "^8.4.12",
+    "postcss-pxtorem": "^5.1.1",
+    "vant": "^2.12.47",
     "vue": "^2.6.11",
-    "vue-router": "^4.0.14"
+    "vue-router": "^3.5.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.13",
